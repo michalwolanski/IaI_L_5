@@ -1,0 +1,45 @@
+body { background-color: gray; }
+nav ul li {
+    display: inline;
+    color:#213;
+}
+a {
+	margin: 0px;
+	color: white;
+	padding-left: 10vw;
+	padding-right: 10vw;
+	background-color: #4867BD;
+	transition: all 500ms;
+}
+a:hover {
+	margin: 0px;
+	color: black;
+	padding-left: 10vw;
+	padding-right: 10vw;
+	background-color: #354D91;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+iframe {
+width: 100%
+}
+i{
+    font-size:30px;
+}
+    .col-sm-3{
+        text-align: right;
+    }
+
+    footer{
+    	bottom:100px;
+    	text-align:center;
+    }
+    .nav{
+    	margin-top:2vh;
+    	margin-left: 4vw;
+    	margin-right: 1vw;
+    }
+<!-- flex,block,inline none -->
+Aa
