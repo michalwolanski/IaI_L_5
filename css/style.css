@@ -41,5 +41,17 @@ i{
     	margin-left: 4vw;
     	margin-right: 1vw;
     }
-<!-- flex,block,inline none -->
-Aa
+
+body {
+   transition: 0.5s background-color;
+
+}
+.scroll {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+html {
+  scroll-behavior: smooth;
+}
+
